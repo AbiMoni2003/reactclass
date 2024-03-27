@@ -4,11 +4,11 @@ import './index.css';
 
 
 import reportWebVitals from './reportWebVitals';
-import Cart from './Display';
+import Display from './Display';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Display/>
+    <Display />
   </React.StrictMode>
 );
 
