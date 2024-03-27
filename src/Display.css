@@ -1,0 +1,11 @@
+.b:hover{display: none;
+    color: rgba(38, 0, 255, 0.753);}
+    .A{border: 2px solid darkcyan;
+    background-color: lightgray;
+height: 200px;
+width: fit-content;
+padding: 5px;
+margin-top: 200px;}
+input{border-radius: 20px;
+margin-top: 20px;}
+label{width:200px;}

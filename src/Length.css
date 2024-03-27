@@ -1,0 +1,9 @@
+.len1{border: 5px solid darkturquoise;
+margin-top: 150px;
+height: fit-content;
+width: fit-content;
+padding: 8px;
+background-color: lightgoldenrodyellow;}
+input{border-radius: 20px;
+padding-left: 6px;}
+label{width: 200px;}
