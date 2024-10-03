@@ -4,7 +4,7 @@ import './index.css';
 
 
 import reportWebVitals from './reportWebVitals';
-import Display from './Display';
+import Cart from './Cart';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
